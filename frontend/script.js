@@ -3,8 +3,7 @@
 // ========================================
 
 // url
-const API_URL = "http://localhost:5000/api";
-
+const API_URL = "/api";
 // Authentication and application state
 let authToken = sessionStorage.getItem("spendwise_token");
 let currentUser = JSON.parse(

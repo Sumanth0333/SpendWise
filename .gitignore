@@ -8,7 +8,7 @@ node_modules/
 
 # Logs
 npm-debug.log*
-yarn-debug.log*
+yarn-debug.log*s
 *.log
 
 # Operating system files
